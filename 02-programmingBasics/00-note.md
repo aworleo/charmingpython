@@ -3,5 +3,5 @@
 * __Don't mix both types.__
 * Lack of indentation causes syntax errors
 * Two modes of programming
-    * Interactive: Desktop Based Application
-    * Script mode: Web Development
+    * Interactive: Interacting with python interpreter.
+    * Script mode: Saving your code to be used later.
