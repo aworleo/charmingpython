@@ -1,0 +1,4 @@
+we can write database apps in python with sqlite3
+SQLite is a C library that provides a lightweight disk-based database
+
+quick reference : https://docs.python.org/3/library/sqlite3.html
